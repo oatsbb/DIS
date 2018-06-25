@@ -62,5 +62,5 @@ async def on_ready():
  
 
 #adds authentication token
-bot.run('NDU5ODUxNDA5OTY2NDk3ODAy.DhBUdg.vK5OD8gFR8Ou3f-Wv_J_MfLpwL0')
+bot.run('')
 
